@@ -1,0 +1,21 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+body {
+    background-color: #EEEEEE;
+    font-family:sans-serif;
+}
+.qwer 
+{
+    background-color: #EEEEEE;
+    font-family: 'Nanum Brush Script', cursive;
+}
+a{
+    
+    text-decoration: none;
+    
+}
+a:hover {
+    color: #52006A;
+}
